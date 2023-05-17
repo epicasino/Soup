@@ -1,0 +1,68 @@
+& {
+  background-image: url('https://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/andy-warhol/99157-583004488587/andy-warhol-campbells-soup-can-stickers-800x800.jpg');
+  /* background-color: #e9be86; */
+}
+
+footer {
+  text-align: center;
+  padding: 0px;
+  border: solid 10px #9c7e57;
+  background-color: #9c7e57;
+}
+
+header {
+  background-color: #be3232;
+  border: solid 10px #500e0e;
+  color: white;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+main {
+  text-align: center;
+  font-size: large;
+}
+
+.formWithPicture {
+  border: solid 10px #be3232;
+  margin-top: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  padding: 5px;
+}
+
+#brandName {
+  display: inline;
+}
+
+#motto {
+  display: inline;
+  position: relative;
+  left: 73%;
+}
+
+#soupDescription {
+  color:white;
+  padding: 25px;
+  background-color: #8f0e09;
+}
+
+#soupCanMain {
+  width: 500px;
+}
+
+#soupCanFigure {
+  width: 150px;
+}
+
+#iLoveSoup {
+  height: 250px;
+}
+
+#soupMonkey {
+  height: 250px;
+}
